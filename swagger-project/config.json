@@ -1,0 +1,1 @@
+{"basePackage":"co.com.agudelo.microservice.resolveEnigmaApi","configPackage":"co.com.agudelo.microservice.resolveEnigmaApi.config","apiPackage":"co.com.agudelo.microservice.resolveEnigmaApi.api","modelPackage":"co.com.agudelo.microservice.resolveEnigmaApi.model","groupId":"co.com.agudelo.service.resolveEnigmaApi","artifactId":"resolve-enigma-api"}
